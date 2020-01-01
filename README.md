@@ -20,9 +20,7 @@ in WalkThePlank to prevent this, or better yet, use TAILS: https://tails.boum.or
 
 Go to the releases page and grab the latest installers or binary. https://github.com/ARRRUKIDDING/WalkThePlank/releases
 
-### Creating a Hush Smart Chain
-
-You will need the hush3 repo (and currently this is on our dev branch, will be released with our next 3.3.0 release):
+### Creating a WalkThePlank Smart Chain
 
 
 ```
