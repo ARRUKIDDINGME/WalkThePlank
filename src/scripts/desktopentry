@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=WalkThePlank
+Comment=Full node and wallet for Hush
+GenericName=Wallet
+Exec=/usr/local/bin/WalkThePlank %u
+Icon=WalkThePlank.xpm
+Type=Application
+StartupNotify=true
+StartupWMClass=WalkThePlank
+Categories=Utility;
+MimeType=x-scheme-handler/hush;
+Keywords=WalkThePlank;
+
